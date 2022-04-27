@@ -1,5 +1,5 @@
-# Name: [Your Name]
-# Date: 4/24/2022
+# Name: [Zaine]
+# Date: 4/24\7/2022
 # Project: Countdown Timer using Github
 # File: countdownClass --> main.py
 #-----------------------------------------------------------------
